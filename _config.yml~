@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Kenneth Perez"
+title: "Triad the Game"
+description: "Meet us on a crusade to find out what happen on this lively island"
+keywords: "Triad, game, indie, Nara, scroller"
 favicon: "/img/favicon.ico"
 
 ################
@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "A 2D scroller with style and deep story"
+  - text: "Lively scenarios with great animation and sequences"
 
 me-img: "/img/jetpacktocat.png"
 
@@ -132,11 +132,11 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+    date: "September 2017 - Fundation"
+    description: "We begin our wild trip!"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "September 2018 - June 2018"
+    description: "Reached our vertical slide"
 
 # First image of the Timeline
 
@@ -146,7 +146,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "triadthegame@gmail.com"
 
 ################
 # Author Blurb #
@@ -156,7 +156,7 @@ email: "your@email.here"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "NG-Games is an studio dedicated to create new and original games full of strories and emotions, visit our website to understand more about us"
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -165,9 +165,9 @@ author_blurb_image: "/img/author.png"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://www.facebook.com/Triad-The-Game-634207650284506/?modal=admin_todo_tour"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/Triad82562410"
   - title: "github"
     url: "https://github.com/PanosSakkos/personal-jekyll-theme"
   - title: "bitcoin"
