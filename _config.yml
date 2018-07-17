@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/triadbg.png"
+background-img: "../img/triadrockybd.png"
 
 ##############################
 # Dynamic Text on the Header #
@@ -66,7 +66,7 @@ me-img: "/img/jetpacktocat.png"
 # in the end of the url just before '&type' is your user id.
 # Note: fbid is not the same as user id and user id only contains numbers
 
-# me-img: "https://graph.facebook.com/user_id/picture?type=large&width=500&height=500"
+# me-img: "https://graph.facebook.com/634207710284500/picture?type=large&width=500&height=500"
 
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
@@ -114,13 +114,13 @@ paginate: 5
 email-share: True
 fb-share: True
 twitter-share: True
-linkedin-share: True
-reddit-share: True
+linkedin-share: False
+reddit-share: False
 google-plus-share: True
-tumblr-share: True
+tumblr-share: False
 pinterest-share: True
-pocket-share: True
-vkontakte-share: True
+pocket-share: False
+vkontakte-share: False
 
 disqus-shortname: "panossakkos"
 
@@ -168,12 +168,12 @@ social:
     url: "https://www.facebook.com/Triad-The-Game-634207650284506/?modal=admin_todo_tour"
   - title: "twitter"
     url: "https://twitter.com/Triad82562410"
-  - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+#  - title: "github"
+#    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+#  - title: "bitcoin"
+#    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+#  - title: "rss"
+#    url: "/feed.xml"
 
 ############
 # 404 page #
@@ -185,9 +185,9 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
+#keybase-username: johnsmith
+#keybase-in-social: True
+#keybase-in-footer: True
 
 ################################################################################
 
