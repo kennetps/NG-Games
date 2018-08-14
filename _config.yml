@@ -134,7 +134,7 @@ events:
   - image: "/img/timeline/spidertocat.png"
     date: "September 2017 - Fundation"
     description: "We begin our wild trip!"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/baracktocat.png"
     date: "September 2018 - June 2018"
     description: "Reached our vertical slide"
 
